@@ -1,9 +1,5 @@
 .DS_Store
 node_modules
-/j-app/node_modules
-/meal-app/node_modules
-/bootstrapvue/node_modules
-
 /dist
 
 # local env files
